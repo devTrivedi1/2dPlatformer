@@ -1,0 +1,20 @@
+{
+	"player": 
+[
+	{
+		"name": "Archer",
+		"health": 50,
+		"stamina": 30
+	},
+	{
+		"name": "Tank",
+		"health": 150,
+		"stamina": 50
+	},
+	{
+		"name": "Assassin",
+		"health": 20,
+		"stamina": 80
+	}
+]
+}
